@@ -1,0 +1,23 @@
+﻿  Experiment.c
+  SortString.c
+C:\Users\vkobi\source\repos\lb_28\lb_28\SortString.c(47,57): warning C4474: "printf" : для строки формата передано слишком много аргументов
+C:\Users\vkobi\source\repos\lb_28\lb_28\SortString.c(47,57): message : заполнители и их параметры ожидают переменное число аргументов в количестве 0, но было предоставлено 1
+C:\Users\vkobi\source\repos\lb_28\lb_28\SortString.c(64,6): warning C4013: isalpha: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\vkobi\source\repos\lb_28\lb_28\SortString.c(156,2): warning C4013: qsort: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\vkobi\source\repos\lb_28\lb_28\SortString.c(192,13): warning C4013: malloc: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\vkobi\source\repos\lb_28\lb_28\SortString.c(197,8): warning C4047: =: "char *" отличается по уровням косвенного обращения от "int"
+C:\Users\vkobi\source\repos\lb_28\lb_28\SortString.c(202,8): warning C4047: =: "char *" отличается по уровням косвенного обращения от "int"
+C:\Users\vkobi\source\repos\lb_28\lb_28\SortString.c(192,9): warning C4047: инициализация: "char **" отличается по уровням косвенного обращения от "int"
+C:\Users\vkobi\source\repos\lb_28\lb_28\SortString.c(193,9): warning C4047: инициализация: "char **" отличается по уровням косвенного обращения от "int"
+C:\Users\vkobi\source\repos\lb_28\lb_28\SortString.c(221,6): error C2082: переопределение формального параметра "low"
+C:\Users\vkobi\source\repos\lb_28\lb_28\SortString.c(222,6): error C2082: переопределение формального параметра "high"
+C:\Users\vkobi\source\repos\lb_28\lb_28\SortString.c(226,20): warning C4047: функция: "int" отличается по уровням косвенного обращения от "char [20000][81]"
+C:\Users\vkobi\source\repos\lb_28\lb_28\SortString.c(226,20): warning C4024: MergeSortStrings: различные типы для формального и фактического параметров 1
+C:\Users\vkobi\source\repos\lb_28\lb_28\SortString.c(226,28): warning C4020: MergeSortStrings: слишком много фактических параметров
+C:\Users\vkobi\source\repos\lb_28\lb_28\SortString.c(227,20): warning C4047: функция: "int" отличается по уровням косвенного обращения от "char [20000][81]"
+C:\Users\vkobi\source\repos\lb_28\lb_28\SortString.c(227,20): warning C4024: MergeSortStrings: различные типы для формального и фактического параметров 1
+C:\Users\vkobi\source\repos\lb_28\lb_28\SortString.c(227,32): warning C4020: MergeSortStrings: слишком много фактических параметров
+C:\Users\vkobi\source\repos\lb_28\lb_28\SortString.c(228,9): warning C4047: функция: "char **" отличается по уровням косвенного обращения от "char [20000][81]"
+C:\Users\vkobi\source\repos\lb_28\lb_28\SortString.c(228,9): warning C4024: Merge: различные типы для формального и фактического параметров 1
+C:\Users\vkobi\source\repos\lb_28\lb_28\SortString.c(242,13): warning C4244: /=: преобразование "double" в "size_t", возможна потеря данных
+  Создание кода...
